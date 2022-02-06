@@ -10,11 +10,7 @@ This is a solution to the [Suite landing page challenge on Frontend Mentor](http
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
 
 ## Overview
 
@@ -31,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution page](https://your-solution-url.com)
-- Live Site URL: [Live site](https://your-live-site-url.com)
+- Solution URL: [Solution page](https://www.frontendmentor.io/solutions/suite-landing-page-html-pure-css-grid-css-2FEPkIiH7)
+- Live Site URL: [Live site](https://ccreusat-suite-landing-page.vercel.app/)
 
 ## My process
 
